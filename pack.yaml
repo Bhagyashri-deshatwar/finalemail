@@ -3,7 +3,7 @@
 ref: email
 # User-friendly pack name. If this attribute contains spaces or any other special characters, then
 # the "ref" attribute must also be specified (see above).
-name: bhagya
+name: email
 # User-friendly pack description.
 description: Simple pack containing examples of sensor, rule, and action.
 # Keywords which are used when searching for packs.
