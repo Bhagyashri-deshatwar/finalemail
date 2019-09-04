@@ -1,0 +1,13 @@
+---
+name: demo_api
+pack: email
+runner_type: "python-script"
+description: action to get response from a api!
+enabled: true
+entry_point: action.py
+parameters:
+     url:
+        type: string
+        description: APIs url 
+        required: true
+        position: 1
